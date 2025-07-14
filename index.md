@@ -16,12 +16,37 @@
 ---
 
 ## ✈️ Vols à prévoir
-| Trajet | Personnes | Période approximative |
-|-------|-----------|------------------------|
-| Suisse ➜ Colombie (Cartagena ou Bogotá) | Tous | 10-12 décembre |
-| Medellín ➜ Rio de Janeiro | Daniel, Stephan, Jules | 29-30 décembre |
-| Medellín ➜ Suisse | Nati | 29-30 décembre |
-| Rio de Janeiro ➜ Suisse | Daniel, Stephan, Jules | 6-8 janvier |
+<table>
+  <thead>
+    <tr>
+      <th>Trajet</th>
+      <th>Personnes</th>
+      <th>Période approximative</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Suisse ➜ Colombie (Cartagena ou Bogotá)</td>
+      <td>Tous</td>
+      <td>10-12 décembre</td>
+    </tr>
+    <tr>
+      <td>Medellín ➜ Rio de Janeiro</td>
+      <td>Daniel, Stephan, Jules</td>
+      <td>29-30 décembre</td>
+    </tr>
+    <tr>
+      <td>Medellín ➜ Suisse</td>
+      <td>Nati</td>
+      <td>29-30 décembre</td>
+    </tr>
+    <tr>
+      <td>Rio de Janeiro ➜ Suisse</td>
+      <td>Daniel, Stephan, Jules</td>
+      <td>6-8 janvier</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
