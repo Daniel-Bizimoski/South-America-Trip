@@ -1,6 +1,12 @@
-# 🌍 Voyage Colombie & Brésil – Hiver 2025
+# 📑 Table des matières
 
-[TOC]
+- [Participants](#-participants)
+- [Durée](#-durée)
+- [Vols à prévoir](#-vols-à-prévoir)
+- [Colombie – 20 jours](#-colombie--20-jours)
+- [Brésil – 7 jours](#-brésil--7-jours)
+- [Conseils pratiques](#-conseils-pratiques)
+- [À faire ensuite](#-à-faire-ensuite)
 
 ## 👥 Participants
 - Daniel
