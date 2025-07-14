@@ -1,11 +1,11 @@
 
-# 🌍 Voyage Colombie & Brésil – Hiver 2025/2026
+# 🌍 Voyage Colombie & Brésil – Hiver 2025
 
 ## 👥 Participants
-- Daniel (moi)
-- Stephan (d'origine colombienne, parle espagnol)
+- Daniel
+- Stephan
 - Jules
-- Nati (rejoint seulement la partie Colombie)
+- Nati
 
 ## 📅 Durée
 - Départ : **10-12 décembre 2025**
